@@ -1,11 +1,16 @@
 _repo: On-Angel-s-Wings_59967
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59967-h/images/cover.jpg
 creator:
   author:
     agent_name: Greene, Louisa Lilias
     gutenberg_agent_id: '50713'
     url: http://www.gutenberg.org/2009/agents/50713
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59967#On-Angel-s-Wings
 gutenberg_issued: '2019-07-22'
 gutenberg_type: Text
 identifiers:
